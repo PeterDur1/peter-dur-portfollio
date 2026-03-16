@@ -31,7 +31,7 @@ Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise e
 | Certificat | Année | Badge | Aperçu |
 |------------|-------|-------|--------|
 | Google Cybersecurity Professional Certificate | 2026 | ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue) | ![Certificat](path_to_certificate1.png) |
-| Google IT Support Professional Certificate | 2026 | ![Google IT Support](https://img.shields.io/badge/Google-IT%20Support-green) | ![Certificat](path_to_certificate2.png) |
+| Google IT Support Professional Certificate | 2026 | ![Google IT Support](Support.png/Portfolio/Documents) | ![Certificat](path_to_certificate2.png) |
 | Gestion de Projet Google | 2026 | ![Google Project](https://img.shields.io/badge/Google-Project-orange) | ![Certificat](path_to_certificate3.png) |
 | Introduction à la Cybersécurité Cisco | 2025 | ![Cisco Security](https://img.shields.io/badge/Cisco-Cybersecurity-red) | ![Certificat](path_to_certificate4.png) |
 | Hacker Éthique Cisco | 2026 | ![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical%20Hacker-blueviolet) | ![Certificat](path_to_certificate5.png) |
