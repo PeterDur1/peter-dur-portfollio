@@ -122,6 +122,7 @@
     <li>Introduction à la Cybersécurité Cisco (2025)</li>
     <li>Hacker Éthique Cisco</li>
     <li>Introduction à l'IoT Cisco</li>
+    <li>Foundemental Cybersécurity IBM</li>
   </ul>
 </section>
 
