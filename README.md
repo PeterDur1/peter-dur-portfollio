@@ -25,6 +25,8 @@ Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise e
 
 </details>
 
+<details>
+  <summary>🛠 Stack de Sécurité</summary>
 
 - **Systèmes d'exploitation :** Linux, Windows Server  
 - **Outils de sécurité :** Wireshark, OpenVAS, Nmap, Metasploit-framework  
@@ -33,23 +35,21 @@ Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise e
 </details>
 
 <details>
+  <summary>📜 Certifications</summary>
 
-| Certificat | Année | Lien PDF |
-|------------|-------|----------|
-| Google Cybersecurity Professional Certificate | 2026 | [PDF](Google_Cybersecurity.pdf) |
-| Google IT Support Professional Certificate | 2026 | [PDF](Google_IT_Support.pdf) |
-| Gestion de Projet Google | 2026 | [PDF](Gestion_Projet.pdf) |
-| Introduction à la Cybersécurité Cisco | 2025 | [PDF](Cisco_Security.pdf) |
-| Hacker Éthique Cisco | 2026 | [PDF](Cisco_Ethical.pdf) |
-| Introduction à l'IoT Cisco | 2025 | [PDF](Cisco_IoT.pdf) |
-| Foundational Cybersecurity IBM | 2026 | [PDF](IBM_Cybersecurity.pdf) |
+| Certificat | Année | Aperçu |
+|------------|-------|--------|
+| Google Cybersecurity Professional Certificate | 2026 | [Voir PDF](Google_Cybersecurity.pdf) |
+| Google IT Support Professional Certificate | 2026 | [Voir PDF](Google_IT_Support.pdf) |
+| Gestion de Projet Google | 2026 | [Voir PDF](Gestion_Projet.pdf) |
+| Introduction à la Cybersécurité Cisco | 2025 | [Voir PDF](Cisco_Security.pdf) |
+| Hacker Éthique Cisco | 2026 | [Voir PDF](Cisco_Ethical.pdf) |
+| Introduction à l'IoT Cisco | 2025 | [Voir PDF](Cisco_IoT.pdf) |
+| Foundational Cybersecurity IBM | 2026 | [Voir PDF](IBM_Cybersecurity.pdf) |
 
-> 💡 Remplace les PDF par tes fichiers exacts dans le même dossier que README.md.
+> 🔹 Remplace les noms des PDF par tes fichiers exacts dans le même dossier que le README.md
 
 </details>
-
-<details>
-<summary>🚀 Projets & Labs</summary>
 
 <details>
   <summary>🚀 Projets & Labs</summary>
