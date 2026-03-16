@@ -2,18 +2,6 @@
 ### Spécialiste en Sécurité Informatique | Analyste Cybersécurité
 🔐 Protection des systèmes | Sécurisation des données | Défense des réseaux
 
----
-
-## 📌 Sommaire
-- [Résumé Professionnel](#résumé-professionnel)
-- [Compétences Clés](#compétences-clés)
-- [Stack de Sécurité](#stack-de-sécurité)
-- [Certifications](#certifications)
-- [Projets & Labs](#projets--labs)
-- [Documents & Téléchargements](#documents--téléchargements)
-- [Contact](#contact)
-
----
 
 ## 🧠 Résumé Professionnel
 Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise en cybersécurité, administration des systèmes, gestion des vulnérabilités et protection des bases de données. Certifié par Google et Cisco en Cybersécurité, Support IT et Gestion de projets.
@@ -34,7 +22,7 @@ Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise e
 
 ## 🛠 Stack de Sécurité
 - **Systèmes d'exploitation :** Linux, Windows Server  
-- **Outils de sécurité :** Wireshark, OpenVAS, Nmap  
+- **Outils de sécurité :** Wireshark, OpenVAS, Nmap, Metasploit-framework  
 - **Technologies :** MySQL, Java / Spring Boot, Git  
 
 ---
@@ -46,7 +34,7 @@ Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise e
 | Google IT Support Professional Certificate | 2026 | ![Google IT Support](https://img.shields.io/badge/Google-IT%20Support-green) | ![Certificat](path_to_certificate2.png) |
 | Gestion de Projet Google | 2026 | ![Google Project](https://img.shields.io/badge/Google-Project-orange) | ![Certificat](path_to_certificate3.png) |
 | Introduction à la Cybersécurité Cisco | 2025 | ![Cisco Security](https://img.shields.io/badge/Cisco-Cybersecurity-red) | ![Certificat](path_to_certificate4.png) |
-| Hacker Éthique Cisco | 2025 | ![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical%20Hacker-blueviolet) | ![Certificat](path_to_certificate5.png) |
+| Hacker Éthique Cisco | 2026 | ![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical%20Hacker-blueviolet) | ![Certificat](path_to_certificate5.png) |
 | Introduction à l'IoT Cisco | 2025 | ![Cisco IoT](https://img.shields.io/badge/Cisco-IoT-yellowgreen) | ![Certificat](path_to_certificate6.png) |
 | Foundational Cybersecurity IBM | 2026 | ![IBM Cybersecurity](https://img.shields.io/badge/IBM-Cybersecurity-lightblue) | ![Certificat](path_to_certificate7.png) |
 
@@ -74,9 +62,9 @@ Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise e
 ---
 
 ## 📫 Contact
-- ✉ Email : [iliomopeter@gmail.com](mailto:iliomopeter@gmail.com)  
-- 🔗 LinkedIn : [Se connecter avec moi](your_linkedin_url)
+- ✉ Email : iliomopeter@gmail.com
+             peteriliomo@proton.me 
+- 🔗 LinkedIn : Peter Iliomo
 
----
 
 © 2026 Peter Dur Iliomo. Tous droits réservés.
