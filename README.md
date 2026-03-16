@@ -1,83 +1,82 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-</head>
-<body>
+# 👨‍💻 Peter Dur Iliomo
+### Spécialiste en Sécurité Informatique | Analyste Cybersécurité
+🔐 Protection des systèmes | Sécurisation des données | Défense des réseaux
 
-<header>
-  <h1>👨‍💻 Peter Dur Iliomo</h1>
-  <h3>Spécialiste en Sécurité Informatique | Analyste Cybersécurité</h3>
-  <p>🔐 Protection des systèmes | Sécurisation des données | Défense des réseaux</p>
-</header>
+---
 
-<section>
-  <h2>🧠 Résumé Professionnel</h2>
-  <p>Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise en cybersécurité, administration des systèmes, gestion des vulnérabilités et protection des bases de données. Certifié par Google et Cisco en Cybersécurité, Support IT et Gestion de projets.</p>
-</section>
+## 📌 Sommaire
+- [Résumé Professionnel](#résumé-professionnel)
+- [Compétences Clés](#compétences-clés)
+- [Stack de Sécurité](#stack-de-sécurité)
+- [Certifications](#certifications)
+- [Projets & Labs](#projets--labs)
+- [Documents & Téléchargements](#documents--téléchargements)
+- [Contact](#contact)
 
-<section>
-  <h2>🔐 Compétences Clés</h2>
-  <ul>
-    <li>Évaluation des vulnérabilités (OpenVAS, Nmap)</li>
-    <li>Analyse du trafic réseau (Wireshark)</li>
-    <li>Renforcement des systèmes Windows & Linux</li>
-    <li>Sécurité des bases de données MySQL</li>
-    <li>Authentification sécurisée (JWT – Spring Boot)</li>
-    <li>Surveillance des incidents & mitigation des risques</li>
-  </ul>
-</section>
+---
 
-<section>
-  <h2>🛠 Stack de Sécurité</h2>
-  <ul>
-    <li><strong>Systèmes d'exploitation :</strong> Linux, Windows Server</li>
-    <li><strong>Outils de sécurité :</strong> Wireshark, OpenVAS, Nmap</li>
-    <li><strong>Technologies :</strong> MySQL, Java / Spring Boot, Git</li>
-  </ul>
-</section>
+## 🧠 Résumé Professionnel
+Spécialiste en sécurité informatique basé à Kinshasa, RDC, avec expertise en cybersécurité, administration des systèmes, gestion des vulnérabilités et protection des bases de données. Certifié par Google et Cisco en Cybersécurité, Support IT et Gestion de projets.
 
-<section>
-  <h2>📜 Certifications</h2>
-  <ul>
-    <li>Certificat Professionnel Cybersécurité Google (2026)</li>
-    <li>Certificat Support IT Google (2026)</li>
-    <li>Gestion de Projet Google (2026)</li>
-    <li>Introduction à la Cybersécurité Cisco (2025)</li>
-    <li>Hacker Éthique Cisco</li>
-    <li>Introduction à l'IoT Cisco</li>
-    <li>Foundemental Cybersécurity IBM</li>
-  </ul>
-</section>
+---
 
-<section>
-  <h2>🚀 Projets & Labs</h2>
-  <ul>
-    <li>🔎 Laboratoire de Gestion des Vulnérabilités</li>
-    <li>📡 Laboratoire d'Analyse du Trafic Réseau</li>
-    <li>🛡 Système de Gestion de Rendez-vous Médicaux Sécurisé (Authentification JWT)</li>
-    <li>🛢 Projet de Renforcement de la Sécurité MySQL</li>
-  </ul>
-</section>
+## 🔐 Compétences Clés
+| Compétence | Niveau |
+|------------|--------|
+| Évaluation des vulnérabilités (OpenVAS, Nmap) | ⭐⭐⭐⭐ |
+| Analyse du trafic réseau (Wireshark) | ⭐⭐⭐⭐ |
+| Renforcement des systèmes Windows & Linux | ⭐⭐⭐⭐⭐ |
+| Sécurité des bases de données MySQL | ⭐⭐⭐⭐ |
+| Authentification sécurisée (JWT – Spring Boot) | ⭐⭐⭐⭐ |
+| Surveillance des incidents & mitigation des risques | ⭐⭐⭐⭐⭐ |
 
-<section>
-  <h2>📄 Documents & Téléchargements</h2>
-  <a href="path_to_your_cv.pdf" class="btn" target="_blank">Télécharger CV</a>
-  <a href="path_to_certificates.pdf" class="btn" target="_blank">Voir Certificats</a>
-  <a href="path_to_attestations.pdf" class="btn" target="_blank">Attestations de Réussite</a>
-</section>
+---
 
-<section>
-  <h2>📫 Contact</h2>
-  <p>Email : <a href="mailto:iliomopeter@gmail.com">iliomopeter@gmail.com</a></p>
-  <p>LinkedIn : <a href="your_linkedin_url" target="_blank">Se connecter avec moi</a></p>
-</section>
+## 🛠 Stack de Sécurité
+- **Systèmes d'exploitation :** Linux, Windows Server  
+- **Outils de sécurité :** Wireshark, OpenVAS, Nmap  
+- **Technologies :** MySQL, Java / Spring Boot, Git  
 
-<footer>
-  &copy; 2026 Peter Dur Iliomo. Tous droits réservés.
-</footer>
+---
 
-</body>
-</html>
+## 📜 Certifications
+| Certificat | Année | Badge | Aperçu |
+|------------|-------|-------|--------|
+| Google Cybersecurity Professional Certificate | 2026 | ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue) | ![Certificat](path_to_certificate1.png) |
+| Google IT Support Professional Certificate | 2026 | ![Google IT Support](https://img.shields.io/badge/Google-IT%20Support-green) | ![Certificat](path_to_certificate2.png) |
+| Gestion de Projet Google | 2026 | ![Google Project](https://img.shields.io/badge/Google-Project-orange) | ![Certificat](path_to_certificate3.png) |
+| Introduction à la Cybersécurité Cisco | 2025 | ![Cisco Security](https://img.shields.io/badge/Cisco-Cybersecurity-red) | ![Certificat](path_to_certificate4.png) |
+| Hacker Éthique Cisco | 2025 | ![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical%20Hacker-blueviolet) | ![Certificat](path_to_certificate5.png) |
+| Introduction à l'IoT Cisco | 2025 | ![Cisco IoT](https://img.shields.io/badge/Cisco-IoT-yellowgreen) | ![Certificat](path_to_certificate6.png) |
+| Foundational Cybersecurity IBM | 2026 | ![IBM Cybersecurity](https://img.shields.io/badge/IBM-Cybersecurity-lightblue) | ![Certificat](path_to_certificate7.png) |
+
+> 🔹 Remplace `path_to_certificateX.png` par les images de tes certificats ou miniatures PDF converties en image.
+
+---
+
+## 🚀 Projets & Labs
+| Projet | Description | Document | Miniature |
+|--------|------------|----------|-----------|
+| 🔎 Laboratoire de Gestion des Vulnérabilités | Analyse et renforcement des systèmes vulnérables | [PDF](path_to_lab1.pdf) | ![Lab1](path_to_lab1.png) |
+| 📡 Laboratoire d'Analyse du Trafic Réseau | Capture et analyse de paquets réseau | [PDF](path_to_lab2.pdf) | ![Lab2](path_to_lab2.png) |
+| 🛡 Système de Gestion de Rendez-vous Médicaux Sécurisé (JWT) | Authentification et sécurité de données sensibles | [PDF](path_to_project.pdf) | ![Project](path_to_project.png) |
+| 🛢 Projet de Renforcement de la Sécurité MySQL | Hardening de base de données et gestion des accès | [PDF](path_to_project_mysql.pdf) | ![MySQL](path_to_mysql.png) |
+
+---
+
+## 📄 Documents & Téléchargements
+| Document | Lien | Aperçu |
+|----------|------|--------|
+| CV | [Télécharger](path_to_your_cv.pdf) | ![CV](path_to_cv_image.png) |
+| Certificats | [Voir](path_to_certificates.pdf) | ![Certificats](path_to_certificates_image.png) |
+| Attestations | [Voir](path_to_attestations.pdf) | ![Attestations](path_to_attestations_image.png) |
+
+---
+
+## 📫 Contact
+- ✉ Email : [iliomopeter@gmail.com](mailto:iliomopeter@gmail.com)  
+- 🔗 LinkedIn : [Se connecter avec moi](your_linkedin_url)
+
+---
+
+© 2026 Peter Dur Iliomo. Tous droits réservés.
