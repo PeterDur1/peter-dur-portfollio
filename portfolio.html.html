@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Peter Iliomo | Cybersecurity Analyst</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ===== ÉCRAN D'ACCUEIL HERO + LOADER ===== -->
+<section id="accueil" class="hero">
+    <img src="banner.png" class="banner" alt="Banner">
+    <button id="enterBtn" class="btn">Découvrir mon portfolio</button>
+    <div id="loader" class="loader"></div>
+    <div id="countdown" class="countdown"></div>
+</section>
+
+<!-- ===== SITE COMPLET (CACHÉ AU DÉBUT) ===== -->
+<div id="portfolioContent" style="display:none;">
+
+    <!-- HEADER + NAVIGATION -->
+    <header>
+        <h1>Peter Dur Iliomo</h1>
+        <p>Spécialiste en Sécurité Informatique | Analyste Cybersécurité</p>
+        <nav>
+            <ul>
+                <li><a href="#about">👤 À propos</a></li>
+                <li><a href="#skills">🛠️ Expertise</a></li>
+                <li><a href="#stack">💻 Tech & Outils</a></li>
+                <li><a href="#certificates">📜 Formations</a></li>
+                <li><a href="#projects">💼 Réalisations</a></li>
+                <li><a href="#cv">📄 CV</a></li>
+                <li><a href="#contact">✉️ Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- SECTIONS -->
+    <section id="about" class="card">
+        <h2>À propos</h2>
+        <p>Je suis <strong>Peter Dur Iliomo</strong>, IT Security & Analyste en cybersécurité. Je scanne, détecte, Surveiller et analyser le trafic réseau en temps réel. et bloque les attaques pour sécuriser les systèmes, en utilisant OpenVAS, Python, Ruby, et des outils de pentest comme Kali Linux, Nmap, Metasploit-framework et Wireshark.</p>
+    </section>
+
+    <section id="skills" class="card">
+        <h2>Expertise</h2>
+        <ul>
+            <li>🛡️ Évaluation des vulnérabilités </li>
+            <li>📡 Analyse du trafic réseau </li>
+            <li>💻 Hardening Windows et Linux</li>
+            <li>🗄️ Sécurité des bases de données </li>
+            <li>🔑 Authentification sécurisée </li>
+            <li>🚨 Surveillance et réponse aux incidents</li>
+            <li>⚡ Tests d’intrusion </li>
+        </ul>
+    </section>
+
+    <section id="stack" class="card">
+        <h2>Tech & Outils</h2>
+        <h3>🖥️ Systèmes</h3>
+        <p>🐧 Linux | 🪟 Windows Server</p>
+        <h3>🛠️ Outils</h3>
+        <p>📡 Wireshark | 🔍 Nmap | 🛡️ OpenVAS | ⚡ Metasploit</p>
+        <h3>💻 Technologies</h3>
+        <p>🗄️ MySQL | ☕ Java | 🌱 Spring Boot | 🔧 Git</p>
+    </section>
+
+    <section id="certificates" class="card">
+        <h2>🎓 Formations & Certifications</h2>
+        <label for="certSelect">Choisir une certification :</label>
+        <select id="certSelect">
+            <option value="">Sélectionnez</option>
+            <option value="Google1.pdf">🛡️ Google Cybersecurity</option>
+            <option value="Cisco_Ethical.pdf">🕵️‍♂️ Cisco Ethical Hacker</option>
+            <option value="Gestion_projet.pdf">📊 Google Project Management</option>
+            <option value="IT_SUPPORT.pdf">💻 Google IT Support</option>
+            <option value="Introduction.pdf">🔐 Cisco Introduction to Cybersecurity</option>
+            <option value="IoT.pdf">🌐 Cisco IoT</option>
+            <option value="attestation1.pdf">🎓 Attestation Licence</option>
+            <option value="I.pdf">🎓 Attestation Master</option>
+        </select>
+    </section>
+
+    <section id="projects" class="card">
+        <h2>🚀 Réalisations & Projets</h2>
+        <label for="projectSelect">Choisir un projet :</label>
+        <select id="projectSelect">
+            <option value="">Sélectionnez</option>
+            <option value="Lab1.pdf">🛡️ Lab Gestion des Vulnérabilités</option>
+            <option value="Lab2.pdf">📘 Mémoire Licence</option>
+            <option value="Project.pdf">💉 Rendez-vous Médicaux Sécurisé</option>
+        </select>
+    </section>
+
+    <section id="cv" class="card">
+        <h2>📄 Mon CV</h2>
+        <a href="cv.pdf" target="_blank" class="btn-cv">⬇️ Télécharger mon CV</a>
+    </section>
+
+    <section id="contact" class="card">
+        <h2>✉️ Contact & Réseaux</h2>
+        <label for="contactSelect">Choisir un contact :</label>
+        <select id="contactSelect">
+            <option value="">Sélectionnez</option>
+            <option value="mailto:peteriliomo@proton.me">📧 Email : peteriliomo@proton.me</option>
+            <option value="https://www.facebook.com/tonprofil">📘 Facebook : Peter Dur Aigle Chasseur</option>
+            <option value="https://wa.me/243819218506">💬 WhatsApp : +243 819 218 506</option>
+            <option value="https://www.linkedin.com/in/peter-iliomo/">💼 LinkedIn : Peter Iliomo</option>
+        </select>
+    </section>
+
+    <footer>
+        <p>© 2026 Peter Dur Iliomo</p>
+    </footer>
+
+</div>
+
+<!-- ===== SCRIPTS ===== -->
+<script>
+const enterBtn = document.getElementById("enterBtn");
+const loader = document.getElementById("loader");
+const countdown = document.getElementById("countdown");
+const portfolio = document.getElementById("portfolioContent");
+
+// Lorsque le bouton est cliqué
+enterBtn.addEventListener("click", () => {
+    enterBtn.style.display = "none";
+    loader.style.display = "block";
+    
+    let timeLeft = 15; // 15 secondes
+    countdown.textContent = `Chargement : ${timeLeft}s`;
+
+    const interval = setInterval(() => {
+        timeLeft--;
+        countdown.textContent = `Chargement : ${timeLeft}s`;
+        if(timeLeft <= 0){
+            clearInterval(interval);
+            document.getElementById("accueil").style.display = "none";
+            portfolio.style.display = "block";
+        }
+    }, 1000);
+});
+
+// Sélections interactives
+document.getElementById('certSelect').addEventListener('change', function() {
+    if(this.value) window.open(this.value, '_blank'); this.value="";
+});
+document.getElementById('projectSelect').addEventListener('change', function() {
+    if(this.value) window.open(this.value, '_blank'); this.value="";
+});
+document.getElementById('contactSelect').addEventListener('change', function() {
+    if(this.value) window.open(this.value, '_blank'); this.value="";
+});
+</script>
+
+<!-- Autres sections ici... -->
+
+<!-- Script pour h2 orange au clic -->
+<script>
+const h2s = document.querySelectorAll('.card h2');
+
+function isInViewport(element) {
+    const rect = element.getBoundingClientRect();
+    return (
+        rect.top >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight)
+    );
+}
+
+function checkH2() {
+    h2s.forEach(h2 => {
+        if (isInViewport(h2)) {
+            h2.style.color = 'orange';
+        } else {
+            h2.style.color = 'white';
+        }
+    });
+}
+
+// Vérifier au scroll et au load
+window.addEventListener('scroll', checkH2);
+window.addEventListener('load', checkH2);
+</script>
+
+</body>
+</html>
